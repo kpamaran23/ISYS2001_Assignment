@@ -13,3 +13,6 @@ Python libaries required:
 - re
 - mathplotlib
 - worldcloud
+
+
+Write 2 paragraphs on readme analysing the enron scandal
