@@ -14,5 +14,15 @@ Python libaries required:
 - mathplotlib
 - worldcloud
 
+About
+The assignment revolves around Enron's scandal on 2001 when their email database got leaked.
+Using software tools such as colab, python and its libraries to collect, clean and display the data to convey meaningful information about Enron's scandal.
 
-Write 2 paragraphs on readme analysing the enron scandal
+
+Purpose of the Repository
+To gather data from the email database, analyse the patterns of data to gain an insight of the events the occurred to Enron's scandal. 
+Analysing the email's:
+- traffic over time
+- internal and external communication
+- top senders and recipients and 
+- how the emails are distributed 
